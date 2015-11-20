@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chislo_Fibonachi", "Chislo_Fibonachi\Chislo_Fibonachi.csproj", "{C4F92AC2-2B51-49EA-87B8-D93C7CF75487}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4F92AC2-2B51-49EA-87B8-D93C7CF75487}.Debug|x86.ActiveCfg = Debug|x86
+		{C4F92AC2-2B51-49EA-87B8-D93C7CF75487}.Debug|x86.Build.0 = Debug|x86
+		{C4F92AC2-2B51-49EA-87B8-D93C7CF75487}.Release|x86.ActiveCfg = Release|x86
+		{C4F92AC2-2B51-49EA-87B8-D93C7CF75487}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Chislo_Fibonachi\Chislo_Fibonachi.csproj
+	EndGlobalSection
+EndGlobal
